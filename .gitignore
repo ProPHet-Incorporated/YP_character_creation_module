@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# temp file for Yandex Practicum task
+task 1.py
