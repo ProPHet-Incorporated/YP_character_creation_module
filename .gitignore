@@ -130,3 +130,5 @@ dmypy.json
 
 # temp file for Yandex Practicum task
 task 1.py
+empty.py
+.flake8
